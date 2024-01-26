@@ -65,4 +65,4 @@ Quickstart:
 
 git clone https://github.com/GOSS-hash/boosting-algorithms-project-tutorial-omass/tree/main
 
-cd [Your Repository Directory]
+
