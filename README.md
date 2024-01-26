@@ -1,4 +1,4 @@
-# Diabetes Predictor (XGBoost vs Random Forest)
+# Diabetes Predictor | XGBoost vs Random Forest
 
 This machine learning project utilizes diagnostic measures to predict whether a patient has diabetes. Featuring models like XGBoost and Random Forest, the code evaluates their predictive performance on a dataset of clinical diabetes measures.
 
